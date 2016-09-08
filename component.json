@@ -1,0 +1,12 @@
+{
+    "repos": "https://github.com/silviomoreto/bootstrap-select.git",
+    "version": "v1.11.0",
+    "description": "Bootstrap select",
+    "main": "bootstrap-select.js",
+    "dependencies": {
+        "bootstrap": ">=3.0",
+        "jquery": ">=1.8"
+    },
+    "umd2commonjs": true,
+    "name": "bootstrap-select"
+}
