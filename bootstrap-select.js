@@ -11,7 +11,7 @@
     
     var a0 = require('jquery');
     module.exports = factory(a0) || module.exports;;
-}(this, function (arguments[0]) {
+}(this, function ($) {
     (function ($) {
         'use strict';
         //<editor-fold desc="Shims">
